@@ -11,5 +11,6 @@ object StillePost {
     println("hellloooo")
     println("hunger ")
     println("Hoch die Hände wochenendeeeeeeeeee ")
+    println("Fuck my Life ")
   }
 }
