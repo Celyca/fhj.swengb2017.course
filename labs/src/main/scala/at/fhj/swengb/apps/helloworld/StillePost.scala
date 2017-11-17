@@ -10,5 +10,6 @@ object StillePost {
     println(" WE <3 3=============D ")
     println("hellloooo")
     println("hunger ")
+    println("Hoch die Hände wochenendeeeeeeeeee ")
   }
 }
